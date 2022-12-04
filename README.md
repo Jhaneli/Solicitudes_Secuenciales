@@ -19,5 +19,4 @@ Desarrollado en python con Librerias principales (Necesarias de tener instaladas
                
 
 Programa en curso: 
-![image](https://user-images.githubusercontent.com/100322935/202384866-aa3bfb37-752a-4e99-95bb-8aa06dff87e1.png)
-
+![image](https://user-images.githubusercontent.com/100322935/205502805-0d33938a-cb85-4543-a888-02dfa630a487.png)
